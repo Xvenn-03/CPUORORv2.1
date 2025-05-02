@@ -14,3 +14,4 @@ $ termux-setup-storage
 $ pkg install python
 $ pip install colorama
 $ gut clone
+'''
