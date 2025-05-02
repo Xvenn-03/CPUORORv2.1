@@ -19,6 +19,8 @@ $ git clone https://github.com/Xvenn-03/CPUORORv2.1/tree/main
 $ cd CPUORORv2.1
 $ python CPUORORv2.py
 ```
+## There is a problem?
+If there is a problem, please contact me immediately by copying the error so I can immediately fix the script.
 
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/Xvenn-03/count.svg)
