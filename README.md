@@ -16,5 +16,16 @@ $ pip install colorama
 $ git clone
 '''
 
+## Instalations
+```
+$ pkg update -y && pkg upgrade -y
+$ apt update -y && apt upgrade -y
+$ pkg install git
+$ pkg install python -y
+$ git clone https://github.com/Whomrx666/Xbot-ddos.git
+$ cd Xbot-ddos
+$ python Xbot-ddos.py
+```
+
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/Xvenn-03/count.svg)
