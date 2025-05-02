@@ -15,8 +15,8 @@ $ pkg install git
 $ pkg install python -y
 $ pip install colorama
 $ git clone https://github.com/Xvenn-03/CPUORORv2.1/tree/main
-$ cd Xbot-ddos
-$ python Xbot-ddos.py
+$ cd CPUORORv2.1
+$ python CPUORORv2.py
 ```
 
 ### Visitors :
