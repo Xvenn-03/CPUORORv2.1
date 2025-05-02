@@ -14,7 +14,7 @@ $ apt update -y && apt upgrade -y
 $ pkg install git
 $ pkg install python -y
 $ pip install colorama
-$ git clone https://github.com/Whomrx666/Xbot-ddos.git
+$ git clone https://github.com/Xvenn-03/CPUORORv2.1/blob/main/README.md
 $ cd Xbot-ddos
 $ python Xbot-ddos.py
 ```
