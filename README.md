@@ -13,5 +13,8 @@ $ pkg update && pkg upgrade
 $ termux-setup-storage
 $ pkg install python
 $ pip install colorama
-$ gut clone
+$ git clone
 '''
+
+### Visitors :
+![Visitor Count](https://profile-counter.glitch.me/Whomrx666/count.svg)
