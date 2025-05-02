@@ -1,5 +1,5 @@
 # CPUORORv2.1
-CPUOROR is a tool created by an anonymous person but I have developed it into a better tool, and also this script is still under development if there is an error you can report it, this script only supports Android 
+Hello I am Xvenn-03 the person who developed this script to be newer because the person who created it did not update it, this script has some features but I suggest you to try the spam tool, I never changed the name of this script because I want to respect the person who created it. 
 
 ## The features in the script include: 
 - Tool Spam 
@@ -8,6 +8,7 @@ CPUOROR is a tool created by an anonymous person but I have developed it into a 
 - Speed Up Internet
 
 ## Instalations
+Follow the installation instructions to avoid errors. 
 ```
 $ pkg update -y && pkg upgrade -y
 $ apt update -y && apt upgrade -y
