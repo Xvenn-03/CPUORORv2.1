@@ -7,21 +7,13 @@ CPUOROR is a tool created by an anonymous person but I have developed it into a 
 - Mode Gaming
 - Speed Up Internet
 
-## How to install: 
-'''
-$ pkg update && pkg upgrade
-$ termux-setup-storage
-$ pkg install python
-$ pip install colorama
-$ git clone
-'''
-
 ## Instalations
 ```
 $ pkg update -y && pkg upgrade -y
 $ apt update -y && apt upgrade -y
 $ pkg install git
 $ pkg install python -y
+$ pip install colorama
 $ git clone https://github.com/Whomrx666/Xbot-ddos.git
 $ cd Xbot-ddos
 $ python Xbot-ddos.py
