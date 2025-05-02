@@ -8,14 +8,14 @@ Hello I am Xvenn-03 the person who developed this script to be newer because the
 - Speed Up Internet
 
 ## Instalations
-Follow the installation instructions to avoid errors. 
+can only be installed on android with termux.
 ```
 $ pkg update -y && pkg upgrade -y
 $ apt update -y && apt upgrade -y
 $ pkg install git
 $ pkg install python -y
 $ pip install colorama
-$ git clone https://github.com/Xvenn-03/CPUORORv2.1/tree/main
+$ git clone https://github.com/Xvenn-03/CPUORORv2.1.git
 $ cd CPUORORv2.1
 $ python CPUORORv2.py
 ```
