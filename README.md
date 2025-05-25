@@ -12,11 +12,12 @@ can only be installed on android with termux.
 ```
 $ pkg update -y && pkg upgrade -y
 $ apt update -y && apt upgrade -y
+$ termux-setup-storage
 $ pkg install git
 $ pkg install python -y
-$ pip install colorama
 $ git clone https://github.com/Xvenn-03/CPUORORv2.1.git
 $ cd CPUORORv2.1
+$ pip install -r requirements.txt
 $ python CPUORORv2.py
 ```
 ## There is a problem?
