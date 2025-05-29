@@ -1,4 +1,1 @@
 colorama>=0.4.6
-requests>=2.31.0
-python-telegram-bot>=20.0
-geocoder>=1.38.1
