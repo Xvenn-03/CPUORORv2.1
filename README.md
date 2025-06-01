@@ -1,5 +1,5 @@
 # CPUORORv2.1
-Hello I am Xvenn-03 the person who developed this script to be newer because the person who created it did not update it, this script has some features but I suggest you to try the spam tool, I never changed the name of this script because I want to respect the person who created it. 
+CPUORORv2 is a tool to optimize and improve mobile phone performance with the addition of one feature, namely the spam tool, I only developed it, not the person who created this script and before running this script, please see the python code first so that nothing unwanted happens. 
 
 ## The features in the script include: 
 - Tool Spam 
