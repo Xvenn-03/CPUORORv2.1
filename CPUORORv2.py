@@ -7,6 +7,7 @@ from colorama import Fore, init
 
 init()
 
+#becarefull
 
 def block_exit(sig, frame):
     print(Fore.RED + "\n[!] Can't exit this tools...")
